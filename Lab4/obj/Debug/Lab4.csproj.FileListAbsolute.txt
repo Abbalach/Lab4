@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Pictures\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Pictures\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Pictures\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Pictures\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Pictures\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Pictures\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Маража Анна\Pictures\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Маража Анна\Pictures\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Маража Анна\Pictures\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Маража Анна\Pictures\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Маража Анна\Pictures\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Маража Анна\Pictures\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
